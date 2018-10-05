@@ -9,7 +9,7 @@ flavors by `Runscope <https://www.runscope.com/>`__
 |Deploy|_
 
 .. |Deploy| image:: https://www.herokucdn.com/deploy/button.svg
-.. _Deploy: https://heroku.com/deploy?template=https://github.com/codercampos/httpbin
+.. _Deploy: https://heroku.com/deploy?template=https://github.com/danielhartnell/httpbin
 
 |Build Status|
 
